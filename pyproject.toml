@@ -24,7 +24,7 @@ dependencies = [
     "sudachidict-full==20240409",
     "numpy~=1.26.4",
     "scikit_learn~=1.5.0",
-    "pandas==2.0.3", # Colab compatibility
+    "pandas==2.2.2", # Colab compatibility
     "scipy~=1.13.1",
     "catboost~=1.2.5",
     "beautifulsoup4~=4.12.3",
